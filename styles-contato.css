@@ -203,4 +203,8 @@ span {
     .input {
         width: 100%;
     }
+
+    .form span {
+        font-size: 18px;
+    }
 }
